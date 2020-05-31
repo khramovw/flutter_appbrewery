@@ -19,44 +19,44 @@
 /* End PBXAggregateTarget section */
 
 /* Begin PBXBuildFile section */
-		03AAD7DF3223DB55D7505DB699157965 /* CalculateDistanceTask.m in Sources */ = {isa = PBXBuildFile; fileRef = 75524DFD375B6E6C529216EFD7885AAF /* CalculateDistanceTask.m */; };
-		054C612CD0791CD8A6B4D6D28D4B165C /* LocationPermissionsPlugin.h in Headers */ = {isa = PBXBuildFile; fileRef = 056E355ED972E1EDB766234952586654 /* LocationPermissionsPlugin.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		0BE3B470AFD0DFF94BA1E39702EB7DF1 /* TaskProtocol.h in Headers */ = {isa = PBXBuildFile; fileRef = F98082632AEABE9E2A2429317718040D /* TaskProtocol.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		0CF00AFDA173CA819EF926C64B495FAF /* CalculateDistanceTask.h in Headers */ = {isa = PBXBuildFile; fileRef = 9301C680219DC44313A316F266D1C4EC /* CalculateDistanceTask.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		1E9DCEF816CE30D0C2BB16176E6ECEF3 /* GeolocatorPlugin.m in Sources */ = {isa = PBXBuildFile; fileRef = 7660A84D720AB0DF87AA5631366ED0A3 /* GeolocatorPlugin.m */; };
-		33EE87E593288053DA3328C9E085F3FE /* Task.h in Headers */ = {isa = PBXBuildFile; fileRef = C379ADB25B918850A6CA21F6F868FE74 /* Task.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		3F6CA7A8E240D445D5F1FAC5B4996E56 /* LastKnownLocationTask.m in Sources */ = {isa = PBXBuildFile; fileRef = F76FA7C362DF4E2CA58DB180E8B0B807 /* LastKnownLocationTask.m */; };
+		03AAD7DF3223DB55D7505DB699157965 /* CalculateDistanceTask.m in Sources */ = {isa = PBXBuildFile; fileRef = 533060EF6AE1E431263E680F7B7DC29F /* CalculateDistanceTask.m */; };
+		054C612CD0791CD8A6B4D6D28D4B165C /* LocationPermissionsPlugin.h in Headers */ = {isa = PBXBuildFile; fileRef = 1440F8C61F4AB1CFA2166FFF3BEA6999 /* LocationPermissionsPlugin.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		0BE3B470AFD0DFF94BA1E39702EB7DF1 /* TaskProtocol.h in Headers */ = {isa = PBXBuildFile; fileRef = 6F62EBD425B45842F89967D6B47F5FAA /* TaskProtocol.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		0CF00AFDA173CA819EF926C64B495FAF /* CalculateDistanceTask.h in Headers */ = {isa = PBXBuildFile; fileRef = 9927EC95E2C5F23FCC2A9D030B3C046D /* CalculateDistanceTask.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		1E9DCEF816CE30D0C2BB16176E6ECEF3 /* GeolocatorPlugin.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B8AB83C28C5AE22CC76B671A6A6C7 /* GeolocatorPlugin.m */; };
+		33EE87E593288053DA3328C9E085F3FE /* Task.h in Headers */ = {isa = PBXBuildFile; fileRef = A51B04CFEA9DF9F648F8CB263C95B03C /* Task.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		3F6CA7A8E240D445D5F1FAC5B4996E56 /* LastKnownLocationTask.m in Sources */ = {isa = PBXBuildFile; fileRef = 02166CFC5FB2EBD33134E77F16C58506 /* LastKnownLocationTask.m */; };
 		4B249FE922FD61F79A20FA9AD70A7592 /* location_permissions-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 7019224C92E8F810450C8615E34E8E4B /* location_permissions-dummy.m */; };
-		6081D54AD308B8B20304F121F0934746 /* LocationOptions.m in Sources */ = {isa = PBXBuildFile; fileRef = BCAA821C32BE6CA57CA144EBB9E5C4E8 /* LocationOptions.m */; };
-		73629B2EEB6704BC8DE3A31B1E439414 /* GeocodeTask.h in Headers */ = {isa = PBXBuildFile; fileRef = 82D9B3BB31D44D02F412AD5A09375B60 /* GeocodeTask.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		6081D54AD308B8B20304F121F0934746 /* LocationOptions.m in Sources */ = {isa = PBXBuildFile; fileRef = 22C86E637931AA746CEA4168F6E3AB20 /* LocationOptions.m */; };
+		73629B2EEB6704BC8DE3A31B1E439414 /* GeocodeTask.h in Headers */ = {isa = PBXBuildFile; fileRef = 57C6BD3B3242E33830344C88C3D41E60 /* GeocodeTask.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		742F7E3E14C5AF1FD0E156BDF8E8978E /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
 		7747E21677A387062F85A67202F2BC23 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
 		78AFD080F3DC2C79BEE3A0E42BB11525 /* Pods-Runner-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 96BF45FBE2BC9AD7B2D7E56D01B5EE46 /* Pods-Runner-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		79139A5D0D3A144582C494A9418B5B8C /* LocationTask.m in Sources */ = {isa = PBXBuildFile; fileRef = 3C25BFEEA6B39B97DC8E384A1BA7F464 /* LocationTask.m */; };
-		79B0DDB5F752B31802F6AE66675CAB04 /* CLPlacemark_Extensions.m in Sources */ = {isa = PBXBuildFile; fileRef = 2F9809C94EEE09A485B51CB4D198210D /* CLPlacemark_Extensions.m */; };
+		79139A5D0D3A144582C494A9418B5B8C /* LocationTask.m in Sources */ = {isa = PBXBuildFile; fileRef = BBC877F3DE2B0FDBF5D5948F5F554573 /* LocationTask.m */; };
+		79B0DDB5F752B31802F6AE66675CAB04 /* CLPlacemark_Extensions.m in Sources */ = {isa = PBXBuildFile; fileRef = 91FA83AF71E366144765807FF6E8E47C /* CLPlacemark_Extensions.m */; };
 		810FA47968F92B842664EFFA89F29104 /* location_permissions-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = A225857DEC82EF72B8F113F7E9C34019 /* location_permissions-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		8C45558CF3AFA120322FAFC40D3D7329 /* GeocodeTask.m in Sources */ = {isa = PBXBuildFile; fileRef = C7187F1B2D6EE4FC31C0370B0CF1F9CD /* GeocodeTask.m */; };
-		8FA000D7AF086B114904A277A2192566 /* CLPlacemark_Extensions.h in Headers */ = {isa = PBXBuildFile; fileRef = E404390CD85F1B61404E2CD86701A79E /* CLPlacemark_Extensions.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		8C45558CF3AFA120322FAFC40D3D7329 /* GeocodeTask.m in Sources */ = {isa = PBXBuildFile; fileRef = 6D3DEF3587067A6A92D27854499A50DB /* GeocodeTask.m */; };
+		8FA000D7AF086B114904A277A2192566 /* CLPlacemark_Extensions.h in Headers */ = {isa = PBXBuildFile; fileRef = 484C7532BDA0B81D709B812149FF230C /* CLPlacemark_Extensions.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		98B5DC3090126C691BB52F5AAEA8BB8D /* geolocator-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = BDF2425D41A5281BB9F1065096B8A53E /* geolocator-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		9A81855DB7CBB788D3A4B9EB60D706F5 /* Pods-Runner-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B3C932BD54DBB963102A89E0F9E3948 /* Pods-Runner-dummy.m */; };
-		9E269633DC43CBFE35D4AC6E602B7090 /* TaskContext.m in Sources */ = {isa = PBXBuildFile; fileRef = 6664BB258F5C567D6E332C289FC07967 /* TaskContext.m */; };
-		A2ED5B9EFBD2722E43BED2ACBA001E70 /* LocationOptions.h in Headers */ = {isa = PBXBuildFile; fileRef = 38FF8E500D293A3BE6064324A42CAD06 /* LocationOptions.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		9E269633DC43CBFE35D4AC6E602B7090 /* TaskContext.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C6E734F8627433A79513EE089C6F89F /* TaskContext.m */; };
+		A2ED5B9EFBD2722E43BED2ACBA001E70 /* LocationOptions.h in Headers */ = {isa = PBXBuildFile; fileRef = 08696BBAC1B4A4142D0EDE0842631D32 /* LocationOptions.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		A36B29E0CA592ADED1683E2015B3655F /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
-		B0BE1285E4CD798252C09AEAC11DE4B7 /* GoogleApiAvailabilityPlugin.m in Sources */ = {isa = PBXBuildFile; fileRef = FE8FE77EC76ED68BA00425696611A806 /* GoogleApiAvailabilityPlugin.m */; };
-		B396EFF4820619C0B88643890540A03B /* LastKnownLocationTask.h in Headers */ = {isa = PBXBuildFile; fileRef = E9A6397149E238E3FD7A928A1473C3D0 /* LastKnownLocationTask.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		B42BC7E85F88BE18DDA1A4E7ADFF3B3F /* CLLocation_Extensions.m in Sources */ = {isa = PBXBuildFile; fileRef = 9BCE696646A89F8658292C08AA370D4A /* CLLocation_Extensions.m */; };
+		B0BE1285E4CD798252C09AEAC11DE4B7 /* GoogleApiAvailabilityPlugin.m in Sources */ = {isa = PBXBuildFile; fileRef = BC0AD5649C4C091A7267A3848A353E35 /* GoogleApiAvailabilityPlugin.m */; };
+		B396EFF4820619C0B88643890540A03B /* LastKnownLocationTask.h in Headers */ = {isa = PBXBuildFile; fileRef = 213F3B568FBEF9327F7B0263B5BDBE91 /* LastKnownLocationTask.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		B42BC7E85F88BE18DDA1A4E7ADFF3B3F /* CLLocation_Extensions.m in Sources */ = {isa = PBXBuildFile; fileRef = E876A1CBC8EC39DBBC8F12D5E0237563 /* CLLocation_Extensions.m */; };
 		B8F31430CCE638B83C1BA502B2360789 /* google_api_availability-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = F95E3BAFF058442BF2E4DF8709010D64 /* google_api_availability-dummy.m */; };
-		BCE33C4F728F14FA5EC5791531073FDE /* CLLocation_Extensions.h in Headers */ = {isa = PBXBuildFile; fileRef = B05EB6741D6B94BFC63DEFE4C0CC4A0B /* CLLocation_Extensions.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		C72C3CFCD964BE2CAE8CFEA0F8A75322 /* GeolocatorPlugin.h in Headers */ = {isa = PBXBuildFile; fileRef = 8834C337EB3F25828E9C1EBC681C18DE /* GeolocatorPlugin.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		C7BC6D7C7110B7CA79AF5193B7FB02CA /* LocationPermissionsPlugin.m in Sources */ = {isa = PBXBuildFile; fileRef = 6A63399124DDA3EB4BC60DEE6B86A51A /* LocationPermissionsPlugin.m */; };
+		BCE33C4F728F14FA5EC5791531073FDE /* CLLocation_Extensions.h in Headers */ = {isa = PBXBuildFile; fileRef = B0EEA375F969893A08D39FCB49C5A57E /* CLLocation_Extensions.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C72C3CFCD964BE2CAE8CFEA0F8A75322 /* GeolocatorPlugin.h in Headers */ = {isa = PBXBuildFile; fileRef = 956EE18E6234F5EE32629DB20430C799 /* GeolocatorPlugin.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C7BC6D7C7110B7CA79AF5193B7FB02CA /* LocationPermissionsPlugin.m in Sources */ = {isa = PBXBuildFile; fileRef = 47D14742C6BB6683A5F1F69B7B570CEE /* LocationPermissionsPlugin.m */; };
 		D0327B1B06847BF5DDC13555F3F1FE5B /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
-		D284638DCE3CB5FDF7C10B38757F8604 /* GoogleApiAvailabilityPlugin.h in Headers */ = {isa = PBXBuildFile; fileRef = BC5CEBBBAC2C913BDAF02DAE26F57667 /* GoogleApiAvailabilityPlugin.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		D284638DCE3CB5FDF7C10B38757F8604 /* GoogleApiAvailabilityPlugin.h in Headers */ = {isa = PBXBuildFile; fileRef = 82CD9D5E372F2EE427A2EF2B38F2CE2F /* GoogleApiAvailabilityPlugin.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		D620657D50DD4687496F7AAAF5BF3C9F /* geolocator-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = C0D2AD8505D863BDE45158A8ED1116F8 /* geolocator-dummy.m */; };
-		D86164260AC2497D1DD9544F96BEA00A /* TaskContext.h in Headers */ = {isa = PBXBuildFile; fileRef = 4F14EA33A52142F68C1335B2C4614B8E /* TaskContext.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		E059B9D38E36D2E12DA4B18C085BB21C /* Task.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D7AB410556C5503B980E6B1A68A4087 /* Task.m */; };
-		E4492518451C8AD14A13BC3CA9BFFE74 /* Enums.h in Headers */ = {isa = PBXBuildFile; fileRef = E3A2A76F49475F663C2EB0EC02D7600B /* Enums.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		D86164260AC2497D1DD9544F96BEA00A /* TaskContext.h in Headers */ = {isa = PBXBuildFile; fileRef = 867AAE3BB96407BA13C686BDAFD07CFD /* TaskContext.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		E059B9D38E36D2E12DA4B18C085BB21C /* Task.m in Sources */ = {isa = PBXBuildFile; fileRef = C8095304EC2E627A5BDCCF9D572C843F /* Task.m */; };
+		E4492518451C8AD14A13BC3CA9BFFE74 /* Enums.h in Headers */ = {isa = PBXBuildFile; fileRef = 2EF27B08F2B0D780D2A3E1E4DC7E3AA5 /* Enums.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		E88B84E754BD95F18F5CD8A6F40A9551 /* google_api_availability-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = D998CD19C2B01A44352E8AF9A53B2041 /* google_api_availability-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		FC6234DED7F49D7E9509BC224F56130E /* LocationTask.h in Headers */ = {isa = PBXBuildFile; fileRef = 67C3433910E5309B9059853170F72824 /* LocationTask.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FC6234DED7F49D7E9509BC224F56130E /* LocationTask.h in Headers */ = {isa = PBXBuildFile; fileRef = D804EBA7CB988EC604C802BEB151FCD1 /* LocationTask.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -113,78 +113,78 @@
 
 /* Begin PBXFileReference section */
 		015CD336BB337E45EEC15D4839D8DCC4 /* geolocator.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = geolocator.debug.xcconfig; sourceTree = "<group>"; };
+		02166CFC5FB2EBD33134E77F16C58506 /* LastKnownLocationTask.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = LastKnownLocationTask.m; path = "../../../../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-5.3.1/ios/Classes/Tasks/LastKnownLocationTask.m"; sourceTree = "<group>"; };
 		052B29C8A5FFB774356F7D98ACD94DD7 /* geolocator-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "geolocator-Info.plist"; sourceTree = "<group>"; };
-		056E355ED972E1EDB766234952586654 /* LocationPermissionsPlugin.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = LocationPermissionsPlugin.h; path = "../../../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/location_permissions-2.0.5/ios/Classes/LocationPermissionsPlugin.h"; sourceTree = "<group>"; };
-		0D7AB410556C5503B980E6B1A68A4087 /* Task.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = Task.m; path = "../../../../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-5.3.1/ios/Classes/Tasks/Task.m"; sourceTree = "<group>"; };
+		08696BBAC1B4A4142D0EDE0842631D32 /* LocationOptions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = LocationOptions.h; path = "../../../../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-5.3.1/ios/Classes/Data/LocationOptions.h"; sourceTree = "<group>"; };
 		0D875029B4E2A7979C49C46B5E23E7F8 /* Flutter.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = Flutter.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		2F9809C94EEE09A485B51CB4D198210D /* CLPlacemark_Extensions.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = CLPlacemark_Extensions.m; path = "../../../../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-5.3.1/ios/Classes/Extensions/CLPlacemark_Extensions.m"; sourceTree = "<group>"; };
+		1440F8C61F4AB1CFA2166FFF3BEA6999 /* LocationPermissionsPlugin.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = LocationPermissionsPlugin.h; path = "../../../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/location_permissions-2.0.5/ios/Classes/LocationPermissionsPlugin.h"; sourceTree = "<group>"; };
+		1D9B8AB83C28C5AE22CC76B671A6A6C7 /* GeolocatorPlugin.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = GeolocatorPlugin.m; path = "../../../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-5.3.1/ios/Classes/GeolocatorPlugin.m"; sourceTree = "<group>"; };
+		213F3B568FBEF9327F7B0263B5BDBE91 /* LastKnownLocationTask.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = LastKnownLocationTask.h; path = "../../../../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-5.3.1/ios/Classes/Tasks/LastKnownLocationTask.h"; sourceTree = "<group>"; };
+		22C86E637931AA746CEA4168F6E3AB20 /* LocationOptions.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = LocationOptions.m; path = "../../../../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-5.3.1/ios/Classes/Data/LocationOptions.m"; sourceTree = "<group>"; };
+		2EF27B08F2B0D780D2A3E1E4DC7E3AA5 /* Enums.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = Enums.h; path = "../../../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/location_permissions-2.0.5/ios/Classes/Enums.h"; sourceTree = "<group>"; };
 		317C26B9A7CEDD34ADE8F37FAAB7AC20 /* Pods-Runner-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-Runner-frameworks.sh"; sourceTree = "<group>"; };
 		3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
-		38FF8E500D293A3BE6064324A42CAD06 /* LocationOptions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = LocationOptions.h; path = "../../../../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-5.3.1/ios/Classes/Data/LocationOptions.h"; sourceTree = "<group>"; };
 		3BA4C3DB250D5F8E6AEAB101407DC2FB /* location_permissions.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = location_permissions.framework; path = location_permissions.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		3C25BFEEA6B39B97DC8E384A1BA7F464 /* LocationTask.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = LocationTask.m; path = "../../../../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-5.3.1/ios/Classes/Tasks/LocationTask.m"; sourceTree = "<group>"; };
 		3C8B1664F55A4284814F5E57984F026B /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = "../../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/google_api_availability-2.0.4/LICENSE"; sourceTree = "<group>"; };
 		434A9BCA616A90830F36506E901C9404 /* google_api_availability-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "google_api_availability-prefix.pch"; sourceTree = "<group>"; };
+		47D14742C6BB6683A5F1F69B7B570CEE /* LocationPermissionsPlugin.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = LocationPermissionsPlugin.m; path = "../../../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/location_permissions-2.0.5/ios/Classes/LocationPermissionsPlugin.m"; sourceTree = "<group>"; };
+		484C7532BDA0B81D709B812149FF230C /* CLPlacemark_Extensions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CLPlacemark_Extensions.h; path = "../../../../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-5.3.1/ios/Classes/Extensions/CLPlacemark_Extensions.h"; sourceTree = "<group>"; };
 		496608CC0F16F15B4FB88144358CE237 /* geolocator.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = geolocator.release.xcconfig; sourceTree = "<group>"; };
 		4A0912E3E1A721CAF5C6FF676B1D693C /* google_api_availability.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = google_api_availability.modulemap; sourceTree = "<group>"; };
-		4F14EA33A52142F68C1335B2C4614B8E /* TaskContext.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = TaskContext.h; path = "../../../../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-5.3.1/ios/Classes/Tasks/TaskContext.h"; sourceTree = "<group>"; };
 		51825CD8F0558EFA53D9510F0E5BFA16 /* Pods-Runner-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Runner-Info.plist"; sourceTree = "<group>"; };
 		51E5C25AFDA6870F682098306E86D17B /* google_api_availability-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "google_api_availability-Info.plist"; sourceTree = "<group>"; };
+		533060EF6AE1E431263E680F7B7DC29F /* CalculateDistanceTask.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = CalculateDistanceTask.m; path = "../../../../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-5.3.1/ios/Classes/Tasks/CalculateDistanceTask.m"; sourceTree = "<group>"; };
+		57C6BD3B3242E33830344C88C3D41E60 /* GeocodeTask.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = GeocodeTask.h; path = "../../../../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-5.3.1/ios/Classes/Tasks/GeocodeTask.h"; sourceTree = "<group>"; };
 		5B597E27F6B7A69E81DA8D955D612390 /* google_api_availability.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = google_api_availability.release.xcconfig; sourceTree = "<group>"; };
 		60A13A501BDA037C6A767429B94558BB /* Flutter.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Flutter.debug.xcconfig; sourceTree = "<group>"; };
-		6664BB258F5C567D6E332C289FC07967 /* TaskContext.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = TaskContext.m; path = "../../../../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-5.3.1/ios/Classes/Tasks/TaskContext.m"; sourceTree = "<group>"; };
 		669E8F25E1897672BDB80B7EB784DA24 /* Pods_Runner.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_Runner.framework; path = "Pods-Runner.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		67C3433910E5309B9059853170F72824 /* LocationTask.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = LocationTask.h; path = "../../../../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-5.3.1/ios/Classes/Tasks/LocationTask.h"; sourceTree = "<group>"; };
-		6A63399124DDA3EB4BC60DEE6B86A51A /* LocationPermissionsPlugin.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = LocationPermissionsPlugin.m; path = "../../../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/location_permissions-2.0.5/ios/Classes/LocationPermissionsPlugin.m"; sourceTree = "<group>"; };
+		6D3DEF3587067A6A92D27854499A50DB /* GeocodeTask.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = GeocodeTask.m; path = "../../../../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-5.3.1/ios/Classes/Tasks/GeocodeTask.m"; sourceTree = "<group>"; };
+		6F62EBD425B45842F89967D6B47F5FAA /* TaskProtocol.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = TaskProtocol.h; path = "../../../../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-5.3.1/ios/Classes/Tasks/TaskProtocol.h"; sourceTree = "<group>"; };
 		7019224C92E8F810450C8615E34E8E4B /* location_permissions-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "location_permissions-dummy.m"; sourceTree = "<group>"; };
-		75524DFD375B6E6C529216EFD7885AAF /* CalculateDistanceTask.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = CalculateDistanceTask.m; path = "../../../../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-5.3.1/ios/Classes/Tasks/CalculateDistanceTask.m"; sourceTree = "<group>"; };
-		7660A84D720AB0DF87AA5631366ED0A3 /* GeolocatorPlugin.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = GeolocatorPlugin.m; path = "../../../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-5.3.1/ios/Classes/GeolocatorPlugin.m"; sourceTree = "<group>"; };
 		7B3C932BD54DBB963102A89E0F9E3948 /* Pods-Runner-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-Runner-dummy.m"; sourceTree = "<group>"; };
 		7D712CF870FD280EDC230A091B6FC4AE /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = "../../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/location_permissions-2.0.5/LICENSE"; sourceTree = "<group>"; };
-		82D9B3BB31D44D02F412AD5A09375B60 /* GeocodeTask.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = GeocodeTask.h; path = "../../../../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-5.3.1/ios/Classes/Tasks/GeocodeTask.h"; sourceTree = "<group>"; };
-		8834C337EB3F25828E9C1EBC681C18DE /* GeolocatorPlugin.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = GeolocatorPlugin.h; path = "../../../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-5.3.1/ios/Classes/GeolocatorPlugin.h"; sourceTree = "<group>"; };
+		82CD9D5E372F2EE427A2EF2B38F2CE2F /* GoogleApiAvailabilityPlugin.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = GoogleApiAvailabilityPlugin.h; path = "../../../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/google_api_availability-2.0.4/ios/Classes/GoogleApiAvailabilityPlugin.h"; sourceTree = "<group>"; };
+		867AAE3BB96407BA13C686BDAFD07CFD /* TaskContext.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = TaskContext.h; path = "../../../../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-5.3.1/ios/Classes/Tasks/TaskContext.h"; sourceTree = "<group>"; };
+		91FA83AF71E366144765807FF6E8E47C /* CLPlacemark_Extensions.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = CLPlacemark_Extensions.m; path = "../../../../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-5.3.1/ios/Classes/Extensions/CLPlacemark_Extensions.m"; sourceTree = "<group>"; };
 		9280E65CE63E133202455A6376CCB9EE /* location_permissions.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = location_permissions.modulemap; sourceTree = "<group>"; };
-		9301C680219DC44313A316F266D1C4EC /* CalculateDistanceTask.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CalculateDistanceTask.h; path = "../../../../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-5.3.1/ios/Classes/Tasks/CalculateDistanceTask.h"; sourceTree = "<group>"; };
+		956EE18E6234F5EE32629DB20430C799 /* GeolocatorPlugin.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = GeolocatorPlugin.h; path = "../../../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-5.3.1/ios/Classes/GeolocatorPlugin.h"; sourceTree = "<group>"; };
 		96BF45FBE2BC9AD7B2D7E56D01B5EE46 /* Pods-Runner-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-Runner-umbrella.h"; sourceTree = "<group>"; };
-		9BCE696646A89F8658292C08AA370D4A /* CLLocation_Extensions.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = CLLocation_Extensions.m; path = "../../../../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-5.3.1/ios/Classes/Extensions/CLLocation_Extensions.m"; sourceTree = "<group>"; };
+		9927EC95E2C5F23FCC2A9D030B3C046D /* CalculateDistanceTask.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CalculateDistanceTask.h; path = "../../../../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-5.3.1/ios/Classes/Tasks/CalculateDistanceTask.h"; sourceTree = "<group>"; };
+		9C6E734F8627433A79513EE089C6F89F /* TaskContext.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = TaskContext.m; path = "../../../../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-5.3.1/ios/Classes/Tasks/TaskContext.m"; sourceTree = "<group>"; };
 		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9EB016B58868CB1B152222C6245DA2AF /* location_permissions-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "location_permissions-prefix.pch"; sourceTree = "<group>"; };
 		9F79F8269DC34AC56BB3D1D9652C0D86 /* Pods-Runner.profile.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Runner.profile.xcconfig"; sourceTree = "<group>"; };
 		A225857DEC82EF72B8F113F7E9C34019 /* location_permissions-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "location_permissions-umbrella.h"; sourceTree = "<group>"; };
+		A51B04CFEA9DF9F648F8CB263C95B03C /* Task.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = Task.h; path = "../../../../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-5.3.1/ios/Classes/Tasks/Task.h"; sourceTree = "<group>"; };
 		A6264AEB22C27FC97EE4A82EB3E2A02F /* location_permissions-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "location_permissions-Info.plist"; sourceTree = "<group>"; };
 		ACE8F9F5CD2CB803D0B8E7DB2FBE3364 /* geolocator.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = geolocator.modulemap; sourceTree = "<group>"; };
 		AD320F0A19D0A3A9FCBF14446BA7EC3E /* location_permissions.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = location_permissions.release.xcconfig; sourceTree = "<group>"; };
-		B05EB6741D6B94BFC63DEFE4C0CC4A0B /* CLLocation_Extensions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CLLocation_Extensions.h; path = "../../../../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-5.3.1/ios/Classes/Extensions/CLLocation_Extensions.h"; sourceTree = "<group>"; };
-		BC5CEBBBAC2C913BDAF02DAE26F57667 /* GoogleApiAvailabilityPlugin.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = GoogleApiAvailabilityPlugin.h; path = "../../../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/google_api_availability-2.0.4/ios/Classes/GoogleApiAvailabilityPlugin.h"; sourceTree = "<group>"; };
-		BCAA821C32BE6CA57CA144EBB9E5C4E8 /* LocationOptions.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = LocationOptions.m; path = "../../../../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-5.3.1/ios/Classes/Data/LocationOptions.m"; sourceTree = "<group>"; };
+		B0EEA375F969893A08D39FCB49C5A57E /* CLLocation_Extensions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CLLocation_Extensions.h; path = "../../../../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-5.3.1/ios/Classes/Extensions/CLLocation_Extensions.h"; sourceTree = "<group>"; };
+		BBC877F3DE2B0FDBF5D5948F5F554573 /* LocationTask.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = LocationTask.m; path = "../../../../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-5.3.1/ios/Classes/Tasks/LocationTask.m"; sourceTree = "<group>"; };
+		BC0AD5649C4C091A7267A3848A353E35 /* GoogleApiAvailabilityPlugin.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = GoogleApiAvailabilityPlugin.m; path = "../../../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/google_api_availability-2.0.4/ios/Classes/GoogleApiAvailabilityPlugin.m"; sourceTree = "<group>"; };
 		BDF2425D41A5281BB9F1065096B8A53E /* geolocator-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "geolocator-umbrella.h"; sourceTree = "<group>"; };
 		BEA219ADEE943F78ACDAC8E38CE16375 /* geolocator-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "geolocator-prefix.pch"; sourceTree = "<group>"; };
 		C0D2AD8505D863BDE45158A8ED1116F8 /* geolocator-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "geolocator-dummy.m"; sourceTree = "<group>"; };
-		C379ADB25B918850A6CA21F6F868FE74 /* Task.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = Task.h; path = "../../../../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-5.3.1/ios/Classes/Tasks/Task.h"; sourceTree = "<group>"; };
 		C6EA98402A94995D022D330B64B5203D /* Pods-Runner-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-Runner-acknowledgements.markdown"; sourceTree = "<group>"; };
-		C7187F1B2D6EE4FC31C0370B0CF1F9CD /* GeocodeTask.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = GeocodeTask.m; path = "../../../../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-5.3.1/ios/Classes/Tasks/GeocodeTask.m"; sourceTree = "<group>"; };
+		C8095304EC2E627A5BDCCF9D572C843F /* Task.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = Task.m; path = "../../../../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-5.3.1/ios/Classes/Tasks/Task.m"; sourceTree = "<group>"; };
 		CC54C9BB70513BA7D3290EEAEA773DAB /* geolocator.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = geolocator.framework; path = geolocator.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		CDAECCF4B5E08124ED410F09FD5A5DF9 /* Pods-Runner.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Runner.debug.xcconfig"; sourceTree = "<group>"; };
 		D2FA70CA298C392CB8332ADEEDD1CE85 /* Pods-Runner.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Runner.release.xcconfig"; sourceTree = "<group>"; };
+		D804EBA7CB988EC604C802BEB151FCD1 /* LocationTask.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = LocationTask.h; path = "../../../../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-5.3.1/ios/Classes/Tasks/LocationTask.h"; sourceTree = "<group>"; };
 		D998CD19C2B01A44352E8AF9A53B2041 /* google_api_availability-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "google_api_availability-umbrella.h"; sourceTree = "<group>"; };
 		D9F2B4CB813B4BDC4D164C6E0868930A /* Pods-Runner-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Runner-acknowledgements.plist"; sourceTree = "<group>"; };
 		DCE8501C3F15ABB03BAFCEF72A883E30 /* google_api_availability.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = google_api_availability.debug.xcconfig; sourceTree = "<group>"; };
 		DD186AE77A7245676E97C4E7C47FE6C9 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = "../../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-5.3.1/LICENSE"; sourceTree = "<group>"; };
-		E3A2A76F49475F663C2EB0EC02D7600B /* Enums.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = Enums.h; path = "../../../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/location_permissions-2.0.5/ios/Classes/Enums.h"; sourceTree = "<group>"; };
-		E404390CD85F1B61404E2CD86701A79E /* CLPlacemark_Extensions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CLPlacemark_Extensions.h; path = "../../../../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-5.3.1/ios/Classes/Extensions/CLPlacemark_Extensions.h"; sourceTree = "<group>"; };
-		E9A6397149E238E3FD7A928A1473C3D0 /* LastKnownLocationTask.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = LastKnownLocationTask.h; path = "../../../../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-5.3.1/ios/Classes/Tasks/LastKnownLocationTask.h"; sourceTree = "<group>"; };
+		E876A1CBC8EC39DBBC8F12D5E0237563 /* CLLocation_Extensions.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = CLLocation_Extensions.m; path = "../../../../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-5.3.1/ios/Classes/Extensions/CLLocation_Extensions.m"; sourceTree = "<group>"; };
 		EB1409BE512CFE2480AD024289CE63A6 /* google_api_availability.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = google_api_availability.podspec; path = "../../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/google_api_availability-2.0.4/ios/google_api_availability.podspec"; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		ECE72335FB662B8CF657D028843B5968 /* location_permissions.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = location_permissions.podspec; path = "../../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/location_permissions-2.0.5/ios/location_permissions.podspec"; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		EF1E06B5D45DE236168CD60C3C92F42A /* Flutter.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Flutter.framework; sourceTree = "<group>"; };
 		EF632139085662F901BCF71F4D238F9B /* Flutter.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Flutter.release.xcconfig; sourceTree = "<group>"; };
 		F46BF7A998EE3C6EA4CD0501393811C9 /* location_permissions.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = location_permissions.debug.xcconfig; sourceTree = "<group>"; };
 		F49C32B3B8CF59AB437BFD7314674868 /* Pods-Runner.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-Runner.modulemap"; sourceTree = "<group>"; };
-		F76FA7C362DF4E2CA58DB180E8B0B807 /* LastKnownLocationTask.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = LastKnownLocationTask.m; path = "../../../../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-5.3.1/ios/Classes/Tasks/LastKnownLocationTask.m"; sourceTree = "<group>"; };
 		F95E3BAFF058442BF2E4DF8709010D64 /* google_api_availability-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "google_api_availability-dummy.m"; sourceTree = "<group>"; };
-		F98082632AEABE9E2A2429317718040D /* TaskProtocol.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = TaskProtocol.h; path = "../../../../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-5.3.1/ios/Classes/Tasks/TaskProtocol.h"; sourceTree = "<group>"; };
 		FACA9750EAC133DD8A1348E8DBCCED83 /* google_api_availability.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = google_api_availability.framework; path = google_api_availability.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		FBE82BCBFCFEAD5600CC89AD9C1A2C2F /* geolocator.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = geolocator.podspec; path = "../../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-5.3.1/ios/geolocator.podspec"; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		FE8FE77EC76ED68BA00425696611A806 /* GoogleApiAvailabilityPlugin.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = GoogleApiAvailabilityPlugin.m; path = "../../../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/google_api_availability-2.0.4/ios/Classes/GoogleApiAvailabilityPlugin.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -253,19 +253,28 @@
 		069B4A2CBBF933037B5B20AEBBF355E7 /* .. */ = {
 			isa = PBXGroup;
 			children = (
-				4A9284E6192E24A4021F86434A274CBC /* STUDY */,
+				E8A23FC042247CEFE83034E37671D4D9 /* STUDY */,
 			);
 			name = ..;
 			path = ..;
 			sourceTree = "<group>";
 		};
-		0FF2CE6BAE9655A90BC446AF4C1C5624 /* ios */ = {
+		0B858A491D6B3827BA0EF8E71996AB65 /* ios */ = {
 			isa = PBXGroup;
 			children = (
-				4C6EF7D9CCE4CDA887C4206F22FBA176 /* Classes */,
+				933CED63B4B17CE40DC9F8D64E1F84F3 /* .symlinks */,
 			);
 			name = ios;
 			path = ios;
+			sourceTree = "<group>";
+		};
+		12DCDA29868F6BB07B6F60DAE12EAFB0 /* .symlinks */ = {
+			isa = PBXGroup;
+			children = (
+				E0F39819E95D8F4C844D03EB2E9BFBEE /* plugins */,
+			);
+			name = .symlinks;
+			path = .symlinks;
 			sourceTree = "<group>";
 		};
 		13D591BEDD5579583129EB998B94E30C /* Support Files */ = {
@@ -281,33 +290,6 @@
 			);
 			name = "Support Files";
 			path = "../../../../Pods/Target Support Files/geolocator";
-			sourceTree = "<group>";
-		};
-		15FE8B0A78674D06F282F38735E2077E /* Clima-Flutter */ = {
-			isa = PBXGroup;
-			children = (
-				8BCA974DC43DA84441A361275CAE3564 /* ios */,
-			);
-			name = "Clima-Flutter";
-			path = "Clima-Flutter";
-			sourceTree = "<group>";
-		};
-		20FFA8ECBFE66D1AA785D2625F607F8F /* geolocator */ = {
-			isa = PBXGroup;
-			children = (
-				0FF2CE6BAE9655A90BC446AF4C1C5624 /* ios */,
-			);
-			name = geolocator;
-			path = geolocator;
-			sourceTree = "<group>";
-		};
-		22557D631D9F817FECA55367330A73B0 /* plugins */ = {
-			isa = PBXGroup;
-			children = (
-				D035830B75DF7927E0D0B274AF06B0D5 /* location_permissions */,
-			);
-			name = plugins;
-			path = plugins;
 			sourceTree = "<group>";
 		};
 		243DEAAB2E342755CC92ED7D93D3F1E9 /* Support Files */ = {
@@ -329,10 +311,28 @@
 			path = ..;
 			sourceTree = "<group>";
 		};
-		316DC3E43B7775CB61149ACCC5950D79 /* ios */ = {
+		29100A0739472A9F5938ADD2E6D353E3 /* google_api_availability */ = {
 			isa = PBXGroup;
 			children = (
-				75B63313DB357D65B7533CCDF59D415E /* .symlinks */,
+				310489C984C74D68F4EB0D71FC92A3C5 /* ios */,
+			);
+			name = google_api_availability;
+			path = google_api_availability;
+			sourceTree = "<group>";
+		};
+		2E8028DB7D3CFAC4592E397A68C2FC0A /* appbrewery */ = {
+			isa = PBXGroup;
+			children = (
+				0B858A491D6B3827BA0EF8E71996AB65 /* ios */,
+			);
+			name = appbrewery;
+			path = appbrewery;
+			sourceTree = "<group>";
+		};
+		310489C984C74D68F4EB0D71FC92A3C5 /* ios */ = {
+			isa = PBXGroup;
+			children = (
+				E73C2472DA54AD08D33862DFD9375F4C /* Classes */,
 			);
 			name = ios;
 			path = ios;
@@ -347,54 +347,14 @@
 			path = "../../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-5.3.1/ios";
 			sourceTree = "<group>";
 		};
-		478DC720D195A1E78DD9754ECA3A5919 /* Clima-Flutter */ = {
+		4668A72ACE2BC7973B5ACDAE70E45DDB /* Data */ = {
 			isa = PBXGroup;
 			children = (
-				316DC3E43B7775CB61149ACCC5950D79 /* ios */,
-			);
-			name = "Clima-Flutter";
-			path = "Clima-Flutter";
-			sourceTree = "<group>";
-		};
-		48CEE8DFCC2C83149BAF3EA0B76DE050 /* STUDY */ = {
-			isa = PBXGroup;
-			children = (
-				478DC720D195A1E78DD9754ECA3A5919 /* Clima-Flutter */,
-			);
-			name = STUDY;
-			path = STUDY;
-			sourceTree = "<group>";
-		};
-		4A9284E6192E24A4021F86434A274CBC /* STUDY */ = {
-			isa = PBXGroup;
-			children = (
-				DBD57E4AA802EA63B4C5023D56B268AD /* Clima-Flutter */,
-			);
-			name = STUDY;
-			path = STUDY;
-			sourceTree = "<group>";
-		};
-		4AC7C10BF801F0E961E0D2F0D9072718 /* Data */ = {
-			isa = PBXGroup;
-			children = (
-				38FF8E500D293A3BE6064324A42CAD06 /* LocationOptions.h */,
-				BCAA821C32BE6CA57CA144EBB9E5C4E8 /* LocationOptions.m */,
+				08696BBAC1B4A4142D0EDE0842631D32 /* LocationOptions.h */,
+				22C86E637931AA746CEA4168F6E3AB20 /* LocationOptions.m */,
 			);
 			name = Data;
 			path = Data;
-			sourceTree = "<group>";
-		};
-		4C6EF7D9CCE4CDA887C4206F22FBA176 /* Classes */ = {
-			isa = PBXGroup;
-			children = (
-				8834C337EB3F25828E9C1EBC681C18DE /* GeolocatorPlugin.h */,
-				7660A84D720AB0DF87AA5631366ED0A3 /* GeolocatorPlugin.m */,
-				4AC7C10BF801F0E961E0D2F0D9072718 /* Data */,
-				9214458D2DE3B3C1EC562A958BA92F94 /* Extensions */,
-				8D8DB4F95FF3B8FAE06F87DABC1CD057 /* Tasks */,
-			);
-			name = Classes;
-			path = Classes;
 			sourceTree = "<group>";
 		};
 		4D3F819E1ADCB2D720977622A866EE1A /* .. */ = {
@@ -409,7 +369,7 @@
 		53C9FE9BADD1266F47B97BA943F3571E /* .. */ = {
 			isa = PBXGroup;
 			children = (
-				B25BEA5CFF960EB0634466443991655C /* STUDY */,
+				FC45CE9A805070601AB42EC6D04EABAE /* STUDY */,
 			);
 			name = ..;
 			path = ..;
@@ -464,33 +424,22 @@
 			name = Pod;
 			sourceTree = "<group>";
 		};
-		6D203B55EC1614CC12DE958A834FE522 /* Classes */ = {
+		653F73056D0CA96E540218D7FFCAC914 /* .symlinks */ = {
 			isa = PBXGroup;
 			children = (
-				E3A2A76F49475F663C2EB0EC02D7600B /* Enums.h */,
-				056E355ED972E1EDB766234952586654 /* LocationPermissionsPlugin.h */,
-				6A63399124DDA3EB4BC60DEE6B86A51A /* LocationPermissionsPlugin.m */,
-			);
-			name = Classes;
-			path = Classes;
-			sourceTree = "<group>";
-		};
-		6D373FF4556D6DAC46DF0E61CBC02527 /* ios */ = {
-			isa = PBXGroup;
-			children = (
-				FF08732553BA6026F03F0BFC69F403AF /* Classes */,
-			);
-			name = ios;
-			path = ios;
-			sourceTree = "<group>";
-		};
-		75B63313DB357D65B7533CCDF59D415E /* .symlinks */ = {
-			isa = PBXGroup;
-			children = (
-				A2272FAA049B1A0FB68EF039750A131A /* plugins */,
+				76A7B5EE24969097BCDE831CB6B277CD /* plugins */,
 			);
 			name = .symlinks;
 			path = .symlinks;
+			sourceTree = "<group>";
+		};
+		6EDF8CD85E6098E2F6F82859F948EB4B /* geolocator */ = {
+			isa = PBXGroup;
+			children = (
+				A9806C0BB553A0BCEAFC9EA9DAC4A342 /* ios */,
+			);
+			name = geolocator;
+			path = geolocator;
 			sourceTree = "<group>";
 		};
 		75B64FAE2E11899AD3107019D6732DDB /* Support Files */ = {
@@ -506,6 +455,15 @@
 			);
 			name = "Support Files";
 			path = "../../../../Pods/Target Support Files/google_api_availability";
+			sourceTree = "<group>";
+		};
+		76A7B5EE24969097BCDE831CB6B277CD /* plugins */ = {
+			isa = PBXGroup;
+			children = (
+				29100A0739472A9F5938ADD2E6D353E3 /* google_api_availability */,
+			);
+			name = plugins;
+			path = plugins;
 			sourceTree = "<group>";
 		};
 		778F0D58DA565EEE08B0016B15F6B94E /* Pod */ = {
@@ -557,19 +515,10 @@
 		80D7496CF44056D391EDD2F3C1851732 /* .. */ = {
 			isa = PBXGroup;
 			children = (
-				48CEE8DFCC2C83149BAF3EA0B76DE050 /* STUDY */,
+				9012E5A59201A24721A9EB8C51BF5067 /* STUDY */,
 			);
 			name = ..;
 			path = ..;
-			sourceTree = "<group>";
-		};
-		827C77361B77F95F2FF3B01C92D335D8 /* .symlinks */ = {
-			isa = PBXGroup;
-			children = (
-				22557D631D9F817FECA55367330A73B0 /* plugins */,
-			);
-			name = .symlinks;
-			path = .symlinks;
 			sourceTree = "<group>";
 		};
 		8497C8CB83C8B28185AE9E99DD41AC51 /* .. */ = {
@@ -596,13 +545,15 @@
 			path = "../../../../Pods/Target Support Files/location_permissions";
 			sourceTree = "<group>";
 		};
-		8BCA974DC43DA84441A361275CAE3564 /* ios */ = {
+		88F5BE09C39BEE85F3D1602CB72FD1D3 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
-				827C77361B77F95F2FF3B01C92D335D8 /* .symlinks */,
+				2EF27B08F2B0D780D2A3E1E4DC7E3AA5 /* Enums.h */,
+				1440F8C61F4AB1CFA2166FFF3BEA6999 /* LocationPermissionsPlugin.h */,
+				47D14742C6BB6683A5F1F69B7B570CEE /* LocationPermissionsPlugin.m */,
 			);
-			name = ios;
-			path = ios;
+			name = Classes;
+			path = Classes;
 			sourceTree = "<group>";
 		};
 		8C9D4683D228633B43C458002877BC09 /* .. */ = {
@@ -622,37 +573,31 @@
 			name = Pod;
 			sourceTree = "<group>";
 		};
-		8D8DB4F95FF3B8FAE06F87DABC1CD057 /* Tasks */ = {
+		8FF06FB1AA6001F8FE799C37250BD53B /* ios */ = {
 			isa = PBXGroup;
 			children = (
-				9301C680219DC44313A316F266D1C4EC /* CalculateDistanceTask.h */,
-				75524DFD375B6E6C529216EFD7885AAF /* CalculateDistanceTask.m */,
-				82D9B3BB31D44D02F412AD5A09375B60 /* GeocodeTask.h */,
-				C7187F1B2D6EE4FC31C0370B0CF1F9CD /* GeocodeTask.m */,
-				E9A6397149E238E3FD7A928A1473C3D0 /* LastKnownLocationTask.h */,
-				F76FA7C362DF4E2CA58DB180E8B0B807 /* LastKnownLocationTask.m */,
-				67C3433910E5309B9059853170F72824 /* LocationTask.h */,
-				3C25BFEEA6B39B97DC8E384A1BA7F464 /* LocationTask.m */,
-				C379ADB25B918850A6CA21F6F868FE74 /* Task.h */,
-				0D7AB410556C5503B980E6B1A68A4087 /* Task.m */,
-				4F14EA33A52142F68C1335B2C4614B8E /* TaskContext.h */,
-				6664BB258F5C567D6E332C289FC07967 /* TaskContext.m */,
-				F98082632AEABE9E2A2429317718040D /* TaskProtocol.h */,
+				12DCDA29868F6BB07B6F60DAE12EAFB0 /* .symlinks */,
 			);
-			name = Tasks;
-			path = Tasks;
+			name = ios;
+			path = ios;
 			sourceTree = "<group>";
 		};
-		9214458D2DE3B3C1EC562A958BA92F94 /* Extensions */ = {
+		9012E5A59201A24721A9EB8C51BF5067 /* STUDY */ = {
 			isa = PBXGroup;
 			children = (
-				B05EB6741D6B94BFC63DEFE4C0CC4A0B /* CLLocation_Extensions.h */,
-				9BCE696646A89F8658292C08AA370D4A /* CLLocation_Extensions.m */,
-				E404390CD85F1B61404E2CD86701A79E /* CLPlacemark_Extensions.h */,
-				2F9809C94EEE09A485B51CB4D198210D /* CLPlacemark_Extensions.m */,
+				2E8028DB7D3CFAC4592E397A68C2FC0A /* appbrewery */,
 			);
-			name = Extensions;
-			path = Extensions;
+			name = STUDY;
+			path = STUDY;
+			sourceTree = "<group>";
+		};
+		933CED63B4B17CE40DC9F8D64E1F84F3 /* .symlinks */ = {
+			isa = PBXGroup;
+			children = (
+				94BF193B7C774EB3C49C39AA53F8DE29 /* plugins */,
+			);
+			name = .symlinks;
+			path = .symlinks;
 			sourceTree = "<group>";
 		};
 		9472E44238494D5E1B20763B3A742C25 /* geolocator */ = {
@@ -664,6 +609,15 @@
 			);
 			name = geolocator;
 			path = ../.symlinks/plugins/geolocator/ios;
+			sourceTree = "<group>";
+		};
+		94BF193B7C774EB3C49C39AA53F8DE29 /* plugins */ = {
+			isa = PBXGroup;
+			children = (
+				6EDF8CD85E6098E2F6F82859F948EB4B /* geolocator */,
+			);
+			name = plugins;
+			path = plugins;
 			sourceTree = "<group>";
 		};
 		94DD421167A822850BD02A1F61E55D48 /* .. */ = {
@@ -684,13 +638,13 @@
 			path = ..;
 			sourceTree = "<group>";
 		};
-		A0EE83430D11BC6837C98803171C25B7 /* google_api_availability */ = {
+		A0883FB25C76924B7EC64C8FCF142451 /* appbrewery */ = {
 			isa = PBXGroup;
 			children = (
-				6D373FF4556D6DAC46DF0E61CBC02527 /* ios */,
+				CEB796EA5A7F698C46036C9337E628EE /* ios */,
 			);
-			name = google_api_availability;
-			path = google_api_availability;
+			name = appbrewery;
+			path = appbrewery;
 			sourceTree = "<group>";
 		};
 		A1B75BC754A2D676D8BE472ED56DFCF8 /* .. */ = {
@@ -702,24 +656,6 @@
 			path = ..;
 			sourceTree = "<group>";
 		};
-		A2272FAA049B1A0FB68EF039750A131A /* plugins */ = {
-			isa = PBXGroup;
-			children = (
-				20FFA8ECBFE66D1AA785D2625F607F8F /* geolocator */,
-			);
-			name = plugins;
-			path = plugins;
-			sourceTree = "<group>";
-		};
-		A4487322FF7C6E9D1986EDD46AD24448 /* ios */ = {
-			isa = PBXGroup;
-			children = (
-				6D203B55EC1614CC12DE958A834FE522 /* Classes */,
-			);
-			name = ios;
-			path = ios;
-			sourceTree = "<group>";
-		};
 		A716773236373FBA2E71CDFA74C7012F /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
@@ -728,31 +664,22 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		B25BEA5CFF960EB0634466443991655C /* STUDY */ = {
+		A9806C0BB553A0BCEAFC9EA9DAC4A342 /* ios */ = {
 			isa = PBXGroup;
 			children = (
-				15FE8B0A78674D06F282F38735E2077E /* Clima-Flutter */,
-			);
-			name = STUDY;
-			path = STUDY;
-			sourceTree = "<group>";
-		};
-		B4ADA80193C2EFF3C917F4938FD8F42E /* ios */ = {
-			isa = PBXGroup;
-			children = (
-				B66A808760F641AFE29D3B42CDB117AA /* .symlinks */,
+				E037D3EE41EE542C9CBDD86F17D8EA74 /* Classes */,
 			);
 			name = ios;
 			path = ios;
 			sourceTree = "<group>";
 		};
-		B66A808760F641AFE29D3B42CDB117AA /* .symlinks */ = {
+		B70702F2B484E4608F1FD7CDE0F7C091 /* location_permissions */ = {
 			isa = PBXGroup;
 			children = (
-				FDF5D7F78659F8DFA14223BE2D2D5A14 /* plugins */,
+				DFD011F8708C3FFD7BB15E5F40F68F54 /* ios */,
 			);
-			name = .symlinks;
-			path = .symlinks;
+			name = location_permissions;
+			path = location_permissions;
 			sourceTree = "<group>";
 		};
 		BBDA4A9493542893E4B43AA3D5845B7E /* .. */ = {
@@ -772,6 +699,15 @@
 			name = iOS;
 			sourceTree = "<group>";
 		};
+		CEB796EA5A7F698C46036C9337E628EE /* ios */ = {
+			isa = PBXGroup;
+			children = (
+				653F73056D0CA96E540218D7FFCAC914 /* .symlinks */,
+			);
+			name = ios;
+			path = ios;
+			sourceTree = "<group>";
+		};
 		CF1408CF629C7361332E53B88F7BD30C = {
 			isa = PBXGroup;
 			children = (
@@ -781,15 +717,6 @@
 				7E953BCB633DED10BEF4C4A37664EACE /* Products */,
 				791C6E4B424AF06279F8918FA67B8ED6 /* Targets Support Files */,
 			);
-			sourceTree = "<group>";
-		};
-		D035830B75DF7927E0D0B274AF06B0D5 /* location_permissions */ = {
-			isa = PBXGroup;
-			children = (
-				A4487322FF7C6E9D1986EDD46AD24448 /* ios */,
-			);
-			name = location_permissions;
-			path = location_permissions;
 			sourceTree = "<group>";
 		};
 		D210D550F4EA176C3123ED886F8F87F5 /* Frameworks */ = {
@@ -809,13 +736,35 @@
 			path = ..;
 			sourceTree = "<group>";
 		};
-		DBD57E4AA802EA63B4C5023D56B268AD /* Clima-Flutter */ = {
+		D8688B72C221F3882A5E78AFA786AAE9 /* appbrewery */ = {
 			isa = PBXGroup;
 			children = (
-				B4ADA80193C2EFF3C917F4938FD8F42E /* ios */,
+				8FF06FB1AA6001F8FE799C37250BD53B /* ios */,
 			);
-			name = "Clima-Flutter";
-			path = "Clima-Flutter";
+			name = appbrewery;
+			path = appbrewery;
+			sourceTree = "<group>";
+		};
+		DFD011F8708C3FFD7BB15E5F40F68F54 /* ios */ = {
+			isa = PBXGroup;
+			children = (
+				88F5BE09C39BEE85F3D1602CB72FD1D3 /* Classes */,
+			);
+			name = ios;
+			path = ios;
+			sourceTree = "<group>";
+		};
+		E037D3EE41EE542C9CBDD86F17D8EA74 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				956EE18E6234F5EE32629DB20430C799 /* GeolocatorPlugin.h */,
+				1D9B8AB83C28C5AE22CC76B671A6A6C7 /* GeolocatorPlugin.m */,
+				4668A72ACE2BC7973B5ACDAE70E45DDB /* Data */,
+				F9E59DDAAB95652115FFE0B01DB3CE12 /* Extensions */,
+				F14E9DC41B7B46FC7A1AFBDF65ADEA93 /* Tasks */,
+			);
+			name = Classes;
+			path = Classes;
 			sourceTree = "<group>";
 		};
 		E05EEFE293036A94DFE429986ADDAB63 /* .. */ = {
@@ -827,6 +776,15 @@
 			path = ..;
 			sourceTree = "<group>";
 		};
+		E0F39819E95D8F4C844D03EB2E9BFBEE /* plugins */ = {
+			isa = PBXGroup;
+			children = (
+				B70702F2B484E4608F1FD7CDE0F7C091 /* location_permissions */,
+			);
+			name = plugins;
+			path = plugins;
+			sourceTree = "<group>";
+		};
 		E1D04BCB3BE544A2A0E94AD7622B3BDC /* google_api_availability */ = {
 			isa = PBXGroup;
 			children = (
@@ -836,6 +794,25 @@
 			);
 			name = google_api_availability;
 			path = ../.symlinks/plugins/google_api_availability/ios;
+			sourceTree = "<group>";
+		};
+		E73C2472DA54AD08D33862DFD9375F4C /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				82CD9D5E372F2EE427A2EF2B38F2CE2F /* GoogleApiAvailabilityPlugin.h */,
+				BC0AD5649C4C091A7267A3848A353E35 /* GoogleApiAvailabilityPlugin.m */,
+			);
+			name = Classes;
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		E8A23FC042247CEFE83034E37671D4D9 /* STUDY */ = {
+			isa = PBXGroup;
+			children = (
+				A0883FB25C76924B7EC64C8FCF142451 /* appbrewery */,
+			);
+			name = STUDY;
+			path = STUDY;
 			sourceTree = "<group>";
 		};
 		E9E1339DDFB27A3F381CB5EBE08B900C /* Flutter */ = {
@@ -858,6 +835,27 @@
 			path = ..;
 			sourceTree = "<group>";
 		};
+		F14E9DC41B7B46FC7A1AFBDF65ADEA93 /* Tasks */ = {
+			isa = PBXGroup;
+			children = (
+				9927EC95E2C5F23FCC2A9D030B3C046D /* CalculateDistanceTask.h */,
+				533060EF6AE1E431263E680F7B7DC29F /* CalculateDistanceTask.m */,
+				57C6BD3B3242E33830344C88C3D41E60 /* GeocodeTask.h */,
+				6D3DEF3587067A6A92D27854499A50DB /* GeocodeTask.m */,
+				213F3B568FBEF9327F7B0263B5BDBE91 /* LastKnownLocationTask.h */,
+				02166CFC5FB2EBD33134E77F16C58506 /* LastKnownLocationTask.m */,
+				D804EBA7CB988EC604C802BEB151FCD1 /* LocationTask.h */,
+				BBC877F3DE2B0FDBF5D5948F5F554573 /* LocationTask.m */,
+				A51B04CFEA9DF9F648F8CB263C95B03C /* Task.h */,
+				C8095304EC2E627A5BDCCF9D572C843F /* Task.m */,
+				867AAE3BB96407BA13C686BDAFD07CFD /* TaskContext.h */,
+				9C6E734F8627433A79513EE089C6F89F /* TaskContext.m */,
+				6F62EBD425B45842F89967D6B47F5FAA /* TaskProtocol.h */,
+			);
+			name = Tasks;
+			path = Tasks;
+			sourceTree = "<group>";
+		};
 		F16C4624B3826A0389173AFB4A284685 /* .. */ = {
 			isa = PBXGroup;
 			children = (
@@ -867,13 +865,25 @@
 			path = "../../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/location_permissions-2.0.5/ios";
 			sourceTree = "<group>";
 		};
-		FDF5D7F78659F8DFA14223BE2D2D5A14 /* plugins */ = {
+		F9E59DDAAB95652115FFE0B01DB3CE12 /* Extensions */ = {
 			isa = PBXGroup;
 			children = (
-				A0EE83430D11BC6837C98803171C25B7 /* google_api_availability */,
+				B0EEA375F969893A08D39FCB49C5A57E /* CLLocation_Extensions.h */,
+				E876A1CBC8EC39DBBC8F12D5E0237563 /* CLLocation_Extensions.m */,
+				484C7532BDA0B81D709B812149FF230C /* CLPlacemark_Extensions.h */,
+				91FA83AF71E366144765807FF6E8E47C /* CLPlacemark_Extensions.m */,
 			);
-			name = plugins;
-			path = plugins;
+			name = Extensions;
+			path = Extensions;
+			sourceTree = "<group>";
+		};
+		FC45CE9A805070601AB42EC6D04EABAE /* STUDY */ = {
+			isa = PBXGroup;
+			children = (
+				D8688B72C221F3882A5E78AFA786AAE9 /* appbrewery */,
+			);
+			name = STUDY;
+			path = STUDY;
 			sourceTree = "<group>";
 		};
 		FEF4BE8D70BA0B4AD0CC65993892C4DB /* .. */ = {
@@ -883,16 +893,6 @@
 			);
 			name = ..;
 			path = ..;
-			sourceTree = "<group>";
-		};
-		FF08732553BA6026F03F0BFC69F403AF /* Classes */ = {
-			isa = PBXGroup;
-			children = (
-				BC5CEBBBAC2C913BDAF02DAE26F57667 /* GoogleApiAvailabilityPlugin.h */,
-				FE8FE77EC76ED68BA00425696611A806 /* GoogleApiAvailabilityPlugin.m */,
-			);
-			name = Classes;
-			path = Classes;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

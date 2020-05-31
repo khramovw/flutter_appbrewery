@@ -1,0 +1,36 @@
+dependencies: \
+  /Users/khramovw/STUDY/appbrewery/ios/Runner/GeneratedPluginRegistrant.m \
+  /Users/khramovw/STUDY/appbrewery/ios/Runner/GeneratedPluginRegistrant.h \
+  /Users/khramovw/STUDY/appbrewery/ios/Flutter/Flutter.framework/Modules/module.modulemap \
+  /Users/khramovw/STUDY/appbrewery/ios/Flutter/Flutter.framework/Headers/FlutterTexture.h \
+  /Users/khramovw/STUDY/appbrewery/ios/Flutter/Flutter.framework/Headers/FlutterPlugin.h \
+  /Users/khramovw/STUDY/appbrewery/ios/Flutter/Flutter.framework/Headers/FlutterEngine.h \
+  /Users/khramovw/STUDY/appbrewery/ios/Flutter/Flutter.framework/Headers/FlutterDartProject.h \
+  /Users/khramovw/STUDY/appbrewery/ios/Flutter/Flutter.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/khramovw/STUDY/appbrewery/ios/Flutter/Flutter.framework/Headers/FlutterViewController.h \
+  /Users/khramovw/STUDY/appbrewery/ios/Flutter/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h \
+  /Users/khramovw/STUDY/appbrewery/ios/Flutter/Flutter.framework/Headers/FlutterPlatformViews.h \
+  /Users/khramovw/STUDY/appbrewery/ios/Flutter/Flutter.framework/Headers/FlutterHeadlessDartRunner.h \
+  /Users/khramovw/STUDY/appbrewery/ios/Flutter/Flutter.framework/Headers/FlutterChannels.h \
+  /Users/khramovw/STUDY/appbrewery/ios/Flutter/Flutter.framework/Headers/FlutterCallbackCache.h \
+  /Users/khramovw/STUDY/appbrewery/ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h \
+  /Users/khramovw/STUDY/appbrewery/ios/Flutter/Flutter.framework/Headers/FlutterMacros.h \
+  /Users/khramovw/STUDY/appbrewery/ios/Flutter/Flutter.framework/Headers/FlutterAppDelegate.h \
+  /Users/khramovw/STUDY/appbrewery/ios/Flutter/Flutter.framework/Headers/Flutter.h \
+  /Users/khramovw/STUDY/appbrewery/build/ios/Debug-iphonesimulator/geolocator/geolocator.framework/Headers/GeolocatorPlugin.h \
+  /Users/khramovw/STUDY/appbrewery/build/ios/Debug-iphonesimulator/geolocator/geolocator.framework/Modules/module.modulemap \
+  /Users/khramovw/STUDY/appbrewery/build/ios/Debug-iphonesimulator/geolocator/geolocator.framework/Headers/LocationTask.h \
+  /Users/khramovw/STUDY/appbrewery/build/ios/Debug-iphonesimulator/geolocator/geolocator.framework/Headers/LastKnownLocationTask.h \
+  /Users/khramovw/STUDY/appbrewery/build/ios/Debug-iphonesimulator/geolocator/geolocator.framework/Headers/GeocodeTask.h \
+  /Users/khramovw/STUDY/appbrewery/build/ios/Debug-iphonesimulator/geolocator/geolocator.framework/Headers/TaskProtocol.h \
+  /Users/khramovw/STUDY/appbrewery/build/ios/Debug-iphonesimulator/geolocator/geolocator.framework/Headers/TaskContext.h \
+  /Users/khramovw/STUDY/appbrewery/build/ios/Debug-iphonesimulator/geolocator/geolocator.framework/Headers/Task.h \
+  /Users/khramovw/STUDY/appbrewery/build/ios/Debug-iphonesimulator/geolocator/geolocator.framework/Headers/CalculateDistanceTask.h \
+  /Users/khramovw/STUDY/appbrewery/build/ios/Debug-iphonesimulator/geolocator/geolocator.framework/Headers/CLPlacemark_Extensions.h \
+  /Users/khramovw/STUDY/appbrewery/build/ios/Debug-iphonesimulator/geolocator/geolocator.framework/Headers/CLLocation_Extensions.h \
+  /Users/khramovw/STUDY/appbrewery/build/ios/Debug-iphonesimulator/geolocator/geolocator.framework/Headers/LocationOptions.h \
+  /Users/khramovw/STUDY/appbrewery/build/ios/Debug-iphonesimulator/geolocator/geolocator.framework/Headers/geolocator-umbrella.h \
+  /Users/khramovw/STUDY/appbrewery/build/ios/Debug-iphonesimulator/location_permissions/location_permissions.framework/Headers/LocationPermissionsPlugin.h \
+  /Users/khramovw/STUDY/appbrewery/build/ios/Debug-iphonesimulator/location_permissions/location_permissions.framework/Modules/module.modulemap \
+  /Users/khramovw/STUDY/appbrewery/build/ios/Debug-iphonesimulator/location_permissions/location_permissions.framework/Headers/Enums.h \
+  /Users/khramovw/STUDY/appbrewery/build/ios/Debug-iphonesimulator/location_permissions/location_permissions.framework/Headers/location_permissions-umbrella.h
