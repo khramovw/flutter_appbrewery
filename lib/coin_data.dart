@@ -86,6 +86,6 @@ class CoinData {
       print(
           '$title 550 | Нет данных - Вы запросили конкретный элемент, которого у нас нет на данный момент.');
     }
-    return response;
+    return jsonDecode(response.body);
   }
 }

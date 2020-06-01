@@ -1,0 +1,19 @@
+dependencies: \
+  /Users/khramovw/STUDY/appbrewery/ios/Runner/GeneratedPluginRegistrant.m \
+  /Users/khramovw/STUDY/appbrewery/ios/Runner/GeneratedPluginRegistrant.h \
+  /Users/khramovw/STUDY/appbrewery/ios/Flutter/Flutter.framework/Modules/module.modulemap \
+  /Users/khramovw/STUDY/appbrewery/ios/Flutter/Flutter.framework/Headers/FlutterTexture.h \
+  /Users/khramovw/STUDY/appbrewery/ios/Flutter/Flutter.framework/Headers/FlutterPlugin.h \
+  /Users/khramovw/STUDY/appbrewery/ios/Flutter/Flutter.framework/Headers/FlutterEngine.h \
+  /Users/khramovw/STUDY/appbrewery/ios/Flutter/Flutter.framework/Headers/FlutterDartProject.h \
+  /Users/khramovw/STUDY/appbrewery/ios/Flutter/Flutter.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/khramovw/STUDY/appbrewery/ios/Flutter/Flutter.framework/Headers/FlutterViewController.h \
+  /Users/khramovw/STUDY/appbrewery/ios/Flutter/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h \
+  /Users/khramovw/STUDY/appbrewery/ios/Flutter/Flutter.framework/Headers/FlutterPlatformViews.h \
+  /Users/khramovw/STUDY/appbrewery/ios/Flutter/Flutter.framework/Headers/FlutterHeadlessDartRunner.h \
+  /Users/khramovw/STUDY/appbrewery/ios/Flutter/Flutter.framework/Headers/FlutterChannels.h \
+  /Users/khramovw/STUDY/appbrewery/ios/Flutter/Flutter.framework/Headers/FlutterCallbackCache.h \
+  /Users/khramovw/STUDY/appbrewery/ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h \
+  /Users/khramovw/STUDY/appbrewery/ios/Flutter/Flutter.framework/Headers/FlutterMacros.h \
+  /Users/khramovw/STUDY/appbrewery/ios/Flutter/Flutter.framework/Headers/FlutterAppDelegate.h \
+  /Users/khramovw/STUDY/appbrewery/ios/Flutter/Flutter.framework/Headers/Flutter.h
