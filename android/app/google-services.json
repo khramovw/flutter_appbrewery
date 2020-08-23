@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "224862100009",
+    "firebase_url": "https://flash-chat-fabf1.firebaseio.com",
+    "project_id": "flash-chat-fabf1",
+    "storage_bucket": "flash-chat-fabf1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224862100009:android:73245b1ac6a54c7efa9a38",
+        "android_client_info": {
+          "package_name": "co.khramovw.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224862100009-gchvb2uv5v0h2h7r8s8nuv6fmkfso8a7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBcTkdWsN370RzjtqQcV-8MitjVvzLRiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224862100009-gchvb2uv5v0h2h7r8s8nuv6fmkfso8a7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
