@@ -1,10 +1,13 @@
 // This is a generated file; do not edit or check into version control.
-FLUTTER_ROOT=/Users/khramovw/flutter
-FLUTTER_APPLICATION_PATH=/Users/khramovw/STUDY/appbrewery
-FLUTTER_TARGET=/Users/khramovw/STUDY/appbrewery/lib/main.dart
+FLUTTER_ROOT=/Users/khramov/Develp/flutter
+FLUTTER_APPLICATION_PATH=/Users/khramov/Develp/study/flutter_appbrewery
+FLUTTER_TARGET=/Users/khramov/Develp/study/flutter_appbrewery/lib/main.dart
 FLUTTER_BUILD_DIR=build
 SYMROOT=${SOURCE_ROOT}/../build/ios
-FLUTTER_FRAMEWORK_DIR=/Users/khramovw/flutter/bin/cache/artifacts/engine/ios
 FLUTTER_BUILD_NAME=1.0.0
 FLUTTER_BUILD_NUMBER=1
+DART_DEFINES=flutter.inspector.structuredErrors%3Dtrue
+DART_OBFUSCATION=false
 TRACK_WIDGET_CREATION=true
+TREE_SHAKE_ICONS=false
+PACKAGE_CONFIG=/Users/khramov/Develp/study/flutter_appbrewery/.dart_tool/package_config.json
